@@ -15,12 +15,12 @@ https://www.baeldung.com/jpa-one-to-one
 After that clone this project and try it.
 
 The Postman Documentation is shown in the following screenshot:
-![screenshots](https://github.com/tcrurav/ReactExpressGoogleLogin/blob/master/screenshots/postman.png)
+![screenshots](https://github.com/tcrurav/SpringOneToOne-Doctors/blob/master/screenshots/postman.png)
 
 The resulting registers in the database are shown here:
-![screenshots](https://github.com/tcrurav/ReactExpressGoogleLogin/blob/master/screenshots/doctors.png)
+![screenshots](https://github.com/tcrurav/SpringOneToOne-Doctors/blob/master/screenshots/doctors.png)
 
-![screenshots](https://github.com/tcrurav/ReactExpressGoogleLogin/blob/master/screenshots/users.png)
+![screenshots](https://github.com/tcrurav/SpringOneToOne-Doctors/blob/master/screenshots/users.png)
 
 ### Prerequisites
 
