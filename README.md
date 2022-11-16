@@ -2,6 +2,10 @@
 
 It's just that... A simple project to demonstrate the use of Spring in a basic example with a One to One Relationship.
 
+![screenshots](https://github.com/tcrurav/SpringOneToOne-Doctors/blob/master/screenshots/relationship.png)
+
+In just one request the register in both tables "users" and "doctors" are created.
+
 ## Getting Started
 
 For the initial steps give a try to my following video:
